@@ -1,0 +1,39 @@
+@charset "utf-8"
+body {
+    background-color: blueviolet;
+    color: brown;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+
+h1 {
+    background-color: blue;
+    color: black;
+    text-align: center;
+    line-height: 200%;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    padding: 0.5em;
+}
+
+img {
+    height: 240px;
+    width: 320px;
+}
+
+figure {
+    width: 320px;
+    padding: 5px;
+    border: 2px solid #000000;
+
+}
+
+figcaption {
+    text-align: center;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+footer {
+    color: aquamarine;
+    font-size: small;
+    font-style: oblique;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
